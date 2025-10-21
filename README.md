@@ -29,7 +29,14 @@ The data has been preprocessed and structured to serve as high-quality input for
 - **Programming Language:** Python  
 - **Machine Learning Framework:** Scikit-learn  
 - **Web Framework:** Flask  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript
+  
+## Run the Flask app
+Go to the Terminal, type  the below command
+```bash
+  python app.py
+```
+
 
 
 ## Usage
@@ -37,4 +44,6 @@ The data has been preprocessed and structured to serve as high-quality input for
 2. Enter local parameters such as soil nutrients, temperature, humidity, pH, and rainfall.  
 3. Click the **“Predict”** button.  
 4. View the recommended crop along with details including fertilizers, seeds, market prices, and expected yield.
+
+
 
