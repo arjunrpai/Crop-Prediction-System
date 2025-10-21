@@ -1,11 +1,12 @@
 # Crop Prediction System
 
-![](https://github.com/arjunrpai/Crop-Prediction-System/blob/main/prediction_output.png)
 
 ## Overview
 Agriculture is a cornerstone of our society, but farmers often face challenges in choosing the most suitable crop due to changing weather conditions, soil characteristics, and market demands.  
 
 To help farmers make **data-driven decisions**, this project presents a **Crop Prediction Model** that uses **machine learning algorithms** and **data analysis techniques** to recommend the best crop based on local environmental parameters.
+
+![](https://github.com/arjunrpai/Crop-Prediction-System/blob/main/prediction_output.png)
 
 
 ## Features
